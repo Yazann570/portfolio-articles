@@ -1,8 +1,6 @@
 ---
-title: Example Title
+title: Graduation Project
 tags:
-  - example-tag
+  - Gp2
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
-Hi, I'm yazan.
