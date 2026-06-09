@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: YazanAlfanney.github.io
+  baseUrl: yazann570.github.io/portfolio-articles
   ignorePatterns:
     - private
     - templates
