@@ -9,3 +9,4 @@ draft: false
 Here are my reading notes.
 
 - [[the-pragmatic-programmer/|The Pragmatic Programmer]]
+- [[head-first-design-patterns/|Head First Design Patterns]]
