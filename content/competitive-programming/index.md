@@ -12,7 +12,9 @@ I have participated in several competitive programming contests, including ICPC 
 
 Participated in the 2024 ICPC Jordanian Collegiate Programming Contest and achieved **Thirty-first Place** with my team from Princess Sumaya University for Technology.
 
-**Certificate:** ![[certificates/jcpc-2024.pdf]]
+**Certificate:**
+
+![[../assets/certificates/jcpc-2024.pdf]]
 
 ---
 
@@ -20,7 +22,9 @@ Participated in the 2024 ICPC Jordanian Collegiate Programming Contest and achie
 
 Participated in the 2025 ICPC Jordanian Collegiate Programming Contest and achieved **Forty-fourth Place** with my team from Princess Sumaya University for Technology.
 
-**Certificate:** ![[certificates/jcpc-2025.pdf]]
+**Certificate:**
+
+![[../assets/certificates/jcpc-2025.pdf]]
 
 ---
 
@@ -28,7 +32,9 @@ Participated in the 2025 ICPC Jordanian Collegiate Programming Contest and achie
 
 Participated in the 2025 Amman Collegiate Programming Contest and achieved **Twentieth Place** with my team from Princess Sumaya University for Technology.
 
-**Certificate:** ![[certificates/ammancpc-2025.pdf]]
+**Certificate:**
+
+![[../assets/certificates/ammancpc-2025.pdf]]
 
 ---
 
@@ -54,7 +60,9 @@ Achieved **Top 8** among more than **80 teams**.
 
 Participated in IEEE Xtreme Programming Competition.
 
-**Certificate:** ![[certificates/ieee-xtreme.jpg]]
+**Certificate:**
+
+![[../assets/certificates/ieee-xtreme.jpg]]
 
 ## Skills Developed
 
