@@ -1,4 +1,3 @@
-```md
 ---
 title: Competitive Programming
 ---
@@ -64,4 +63,3 @@ Participated in IEEE Xtreme Programming Competition.
 - Team-based programming
 - Debugging and optimization
 - Competitive programming strategy
-```
