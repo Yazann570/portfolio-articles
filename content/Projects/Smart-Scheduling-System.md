@@ -1,6 +1,3 @@
-```md
-# smart-scheduling-system.md
-
 ---
 title: Smart Scheduling System
 ---

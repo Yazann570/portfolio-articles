@@ -1,6 +1,3 @@
-```md
-# crud-app.md
-
 ---
 title: CRUD App
 ---

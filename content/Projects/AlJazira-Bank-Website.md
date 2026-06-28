@@ -1,6 +1,3 @@
-```md
-# aljazira-bank-website.md
-
 ---
 title: AlJazira Bank Website
 ---

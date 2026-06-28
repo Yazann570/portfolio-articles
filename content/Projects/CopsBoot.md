@@ -1,6 +1,3 @@
-```md
-# copsboot.md
-
 ---
 title: CopsBoot
 ---

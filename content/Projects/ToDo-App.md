@@ -1,6 +1,3 @@
-```md
-# todo-app.md
-
 ---
 title: To Do List App
 ---
