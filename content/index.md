@@ -1,7 +1,8 @@
-```md
 ---
 title: Home
 ---
+
+<div style="font-size: 64px;">🏠</div>
 
 # My Portfolio
 
@@ -27,4 +28,3 @@ See all projects here: [[projects/|Projects]]
 
 - [[books/the-pragmatic-programmer/|The Pragmatic Programmer]]
 - [[books/head-first-design-patterns/|Head First Design Patterns]]
-```
