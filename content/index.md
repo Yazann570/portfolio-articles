@@ -21,4 +21,5 @@ See all projects here: [[projects/|Projects]]
 ## Book Notes
 
 - [[books/the-pragmatic-programmer/|The Pragmatic Programmer]]
+- [[books/the-pragmatic-programmer/|Head First Design Patterns]]
 ```
