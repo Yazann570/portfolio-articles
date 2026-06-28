@@ -62,7 +62,7 @@ Participated in IEEE Xtreme Programming Competition.
 
 **Certificate:**
 
-![[../assets/certificates/ieee-xtreme.jpg]]
+![[../assets/certificates/ieee-xtreme.jfif]]
 
 ## Skills Developed
 
