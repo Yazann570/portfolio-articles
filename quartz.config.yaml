@@ -215,7 +215,7 @@ plugins:
       links:
         GitHub: https://github.com/Yazann570
         LinkedIn: https://www.linkedin.com/in/yazan-alfanny-b62ab2315/
-        Resume: /content/assets/resume/Yazan_Alfanney_CV.pdf
+        Resume: /portfolio-articles/assets/resume/Yazan_Alfanney_CV.pdf
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
