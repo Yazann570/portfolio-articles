@@ -8,7 +8,11 @@ title: Home
 
 Yazan Alfanney
 
-Welcome to my portfolio. I use this site to share my software projects, technical notes, book notes, and competitive programming experience. You can check out my resume through the link at the footer of this page.
+Welcome to my portfolio. I use this site to share my software projects, technical notes, book notes, and competitive programming experience.
+
+## Resume
+
+- ![[/assets/resume/Yazan_Alfanney_CV.pdf]]
 
 ## Projects
 
