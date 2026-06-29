@@ -12,7 +12,7 @@ Welcome to my portfolio. I use this site to share my software projects, technica
 
 ## Resume
 
-- ![[/assets/resume/Yazan_Alfanney_CV.pdf]]
+![[/assets/resume/Yazan_Alfanney_CV.pdf]]
 
 ## Projects
 
